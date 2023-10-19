@@ -1,1 +1,33 @@
 # SQL-TASK-3-6
+INTRODUCTION
+
+--- REPLACING COMMUNICATIONS WITH STAKEHOLDERS
+
+
+![CODE REPLACING COMMUNICATION WITH COMMUNICATION](https://github.com/Janeamaka94/SQL-TASK-3-6/assets/144977337/1dfbd87d-5a51-45ad-b8c8-d0f7ca744bde)
+
+
+--- RESULT
+
+![sql task 3 A](https://github.com/Janeamaka94/SQL-TASK-3-6/assets/144977337/c5b83a87-21d3-46fe-9195-70045140e237)
+
+
+---UPDATING NAME COLUMN IN UPPERCASE
+
+
+![UPPERCASE](https://github.com/Janeamaka94/SQL-TASK-3-6/assets/144977337/8c0f8182-acd2-403e-9952-0e9bbba24e4f)
+
+
+-- MERGING COLUNMS IN SQL (CONCATENATION)
+
+
+![CONCAT FUNCTION](https://github.com/Janeamaka94/SQL-TASK-3-6/assets/144977337/adb3bf6e-8267-4cfe-a563-d76fb6c78265)
+
+
+
+
+
+
+
+
+
